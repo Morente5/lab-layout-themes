@@ -1,0 +1,26 @@
+{
+  "name": "lab-layout-themes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morente5/lab-layout-themes.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Alejandro Morente <morente5@hotmail.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Morente5/lab-layout-themes/issues"
+  },
+  "homepage": "https://github.com/Morente5/lab-layout-themes#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.27.0"
+  }
+}
